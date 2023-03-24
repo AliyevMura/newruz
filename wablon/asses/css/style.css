@@ -1,0 +1,30 @@
+img{
+    max-width:100%;
+}
+.gallery{
+    background-color: #dbddf1;
+    padding: 80px 0;
+}
+.gallery img{
+    background-color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0;
+}
+size1,size2,size3{
+  padding: 50px;
+}
+#pic{
+    padding: 80px 0;
+    width: 100%;
+}
+#center{
+    text-align: center;
+}
+#button{
+    padding: 40px 0;
+    
+}
+#services{
+    text-align: center;
+}
